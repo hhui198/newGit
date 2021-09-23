@@ -1,0 +1,2 @@
+# newGit
+now hello git 
